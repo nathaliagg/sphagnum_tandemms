@@ -25,3 +25,4 @@ Go to our Basecamp project page, and download the LCMS-MS dataset (compressed fi
 These data are a subset of the *Sphagnum* project.
 
 ---
+## 3 - Analysis steps
