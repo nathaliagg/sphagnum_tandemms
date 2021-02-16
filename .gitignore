@@ -2,7 +2,9 @@
 *mzxml
 *.csv
 *.mgf
-*.png
+1_preprocessing/*.png
+2_stats/*/*.png
+*.RData
 
 # History files
 .Rhistory
